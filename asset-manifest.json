@@ -1,7 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.4e0d455c.css",
-    "main.js": "/static/js/main.2bb82a7c.js",
+    "main.css": "/static/css/main.95a03a84.css",
+    "main.js": "/static/js/main.18a078d5.js",
+    "static/media/human-other-w.svg": "/static/media/human-other-w.5eb7efef920d3d1e094c4bf282e621c1.svg",
+    "static/media/human-other-b.svg": "/static/media/human-other-b.8a1a12eb46fc19b9578bacd344a957a4.svg",
     "static/media/sr.svg": "/static/media/sr.0fbbcce4c5d5d7709726903ef8bb7018.svg",
     "static/media/settings-icon-w.svg": "/static/media/settings-icon-w.24691c0471b4d375473b6b0824a6cbf4.svg",
     "static/media/settings-icon-b.svg": "/static/media/settings-icon-b.4b47541d3a1f57614ae63b550232f40d.svg",
@@ -25,11 +27,12 @@
     "static/media/c.svg": "/static/media/c.432b20e5c20b45b3194a6944a8a915b6.svg",
     "static/media/upcoming-stations-horizontal-icon-b.svg": "/static/media/upcoming-stations-horizontal-icon-b.1f30941ba314c0caa2ba8c4896794cd9.svg",
     "static/media/d.svg": "/static/media/d.3d732a8c0638eab94289c427f934b018.svg",
-    "static/media/info-icon-black.svg": "/static/media/info-icon-black.15b530dd7c9749dd521df930f161ed99.svg",
     "static/media/info-icon-white.svg": "/static/media/info-icon-white.1d426110c4d1d23362889f031697f5ff.svg",
     "static/media/light-mode-icon.svg": "/static/media/light-mode-icon.318aa34781e4540e08da287cbd2279ac.svg",
     "static/media/w.svg": "/static/media/w.2c0157783eab3304a9c11a664361bdb8.svg",
     "static/media/j.svg": "/static/media/j.ab372f4b4c9426d6b3e1025420d86e8d.svg",
+    "static/media/optimal-route-icon-w.svg": "/static/media/optimal-route-icon-w.2dba2787c1d4ed285f2ac0eb025a35fd.svg",
+    "static/media/human-female-w.svg": "/static/media/human-female-w.7336f73cc61844e79ba2ddd89cae28e2.svg",
     "static/media/m.svg": "/static/media/m.1afde6df1889d070917c4c9aebf335a5.svg",
     "static/media/7.svg": "/static/media/7.c6753006b53f1e32fccb9addca949254.svg",
     "static/media/conductor-mode-icon-b.svg": "/static/media/conductor-mode-icon-b.48a67bbb5920b0e998511eb55eefb03f.svg",
@@ -37,10 +40,14 @@
     "static/media/dark-mode-icon.svg": "/static/media/dark-mode-icon.730ba5d88b6ea0b6ed6e892769e5712c.svg",
     "static/media/1.svg": "/static/media/1.8e5f162f93f2573eeab165b596552eea.svg",
     "index.html": "/index.html",
+    "static/media/human-male-b.svg": "/static/media/human-male-b.00df1d1495ba2a44d3f3862b72bfbb0e.svg",
+    "static/media/human-male-w.svg": "/static/media/human-male-w.90550e7db360bd348d1a6ec878507f73.svg",
     "static/media/4.svg": "/static/media/4.29ea19884f2876fcbb5df69142f5f00f.svg",
     "static/media/reset-input-white.svg": "/static/media/reset-input-white.31c55c8707527ff4652fa04819d81c66.svg",
+    "static/media/optimal-route-icon-b.svg": "/static/media/optimal-route-icon-b.61fa909309fa9d7c26cb761bf934aa2f.svg",
     "static/media/a.svg": "/static/media/a.d505ebaad49448ca966cd9f28963c3b6.svg",
     "static/media/e.svg": "/static/media/e.b12aff8917a6393fa9c6bf740eb1b91f.svg",
+    "static/media/human-female-b.svg": "/static/media/human-female-b.65bcb2ded5adf113e3b65c831dbf55de.svg",
     "static/media/rider-mode-icon-b.svg": "/static/media/rider-mode-icon-b.cd80917d07110eefe004b7604f845ece.svg",
     "static/media/rider-mode-icon-w.svg": "/static/media/rider-mode-icon-w.45fb97802986a6155c982fe4fda4feb7.svg",
     "static/media/n.svg": "/static/media/n.6c513dd2f7a4a7749a27686e7e7e3db1.svg",
@@ -56,11 +63,11 @@
     "static/media/reset-input-black.svg": "/static/media/reset-input-black.750aedbe20752f61de4dc409446ddc27.svg",
     "static/media/refresh-icon-b.svg": "/static/media/refresh-icon-b.fcdeda242a257d3a4e920eb4203ba4d7.svg",
     "static/media/right-arrow-b.svg": "/static/media/right-arrow-b.58911a02ba12afa51f4f98ba8c308cec.svg",
-    "main.4e0d455c.css.map": "/static/css/main.4e0d455c.css.map",
-    "main.2bb82a7c.js.map": "/static/js/main.2bb82a7c.js.map"
+    "main.95a03a84.css.map": "/static/css/main.95a03a84.css.map",
+    "main.18a078d5.js.map": "/static/js/main.18a078d5.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e0d455c.css",
-    "static/js/main.2bb82a7c.js"
+    "static/css/main.95a03a84.css",
+    "static/js/main.18a078d5.js"
   ]
 }
