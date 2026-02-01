@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4eb49048.css",
-    "main.js": "/static/js/main.68c28006.js",
+    "main.css": "/static/css/main.d66819e3.css",
+    "main.js": "/static/js/main.d189d6f5.js",
     "static/media/human-other-w.svg": "/static/media/human-other-w.5eb7efef920d3d1e094c4bf282e621c1.svg",
     "static/media/human-other-b.svg": "/static/media/human-other-b.8a1a12eb46fc19b9578bacd344a957a4.svg",
     "static/media/sr.svg": "/static/media/sr.0fbbcce4c5d5d7709726903ef8bb7018.svg",
@@ -31,18 +31,23 @@
     "static/media/info-icon-white.svg": "/static/media/info-icon-white.1d426110c4d1d23362889f031697f5ff.svg",
     "static/media/light-mode-icon.svg": "/static/media/light-mode-icon.318aa34781e4540e08da287cbd2279ac.svg",
     "static/media/w.svg": "/static/media/w.2c0157783eab3304a9c11a664361bdb8.svg",
+    "static/media/subway-w.svg": "/static/media/subway-w.506a75c260d4aa34ea989cf6911e1200.svg",
+    "static/media/daily-challenge-complete-g.svg": "/static/media/daily-challenge-complete-g.2fd0290ee80e2e1d4f892f3a55f75793.svg",
+    "static/media/daily-challenge-w.svg": "/static/media/daily-challenge-w.337f4a6ae8169697f7223db6fa38ab29.svg",
     "static/media/j.svg": "/static/media/j.ab372f4b4c9426d6b3e1025420d86e8d.svg",
     "static/media/optimal-route-icon-w.svg": "/static/media/optimal-route-icon-w.2dba2787c1d4ed285f2ac0eb025a35fd.svg",
-    "static/media/human-female-w.svg": "/static/media/human-female-w.7336f73cc61844e79ba2ddd89cae28e2.svg",
+    "static/media/human-female-w.svg": "/static/media/human-female-w.b4b1fd77aad2cd5990e5538a976a0e09.svg",
     "static/media/m.svg": "/static/media/m.1afde6df1889d070917c4c9aebf335a5.svg",
     "static/media/7.svg": "/static/media/7.c6753006b53f1e32fccb9addca949254.svg",
     "static/media/conductor-mode-icon-b.svg": "/static/media/conductor-mode-icon-b.48a67bbb5920b0e998511eb55eefb03f.svg",
     "static/media/conductor-mode-icon-w.svg": "/static/media/conductor-mode-icon-w.03ef403a0ce967552fbe3ccdf44f56f8.svg",
     "static/media/dark-mode-icon.svg": "/static/media/dark-mode-icon.730ba5d88b6ea0b6ed6e892769e5712c.svg",
+    "static/media/subway-b.svg": "/static/media/subway-b.778a2df2c4af954566e1cc76fc8c225b.svg",
     "static/media/1.svg": "/static/media/1.8e5f162f93f2573eeab165b596552eea.svg",
     "index.html": "/index.html",
     "static/media/human-male-b.svg": "/static/media/human-male-b.00df1d1495ba2a44d3f3862b72bfbb0e.svg",
     "static/media/human-male-w.svg": "/static/media/human-male-w.90550e7db360bd348d1a6ec878507f73.svg",
+    "static/media/daily-challenge-b.svg": "/static/media/daily-challenge-b.f7b16b9caa8efe45074a5a3b8f736a91.svg",
     "static/media/4.svg": "/static/media/4.29ea19884f2876fcbb5df69142f5f00f.svg",
     "static/media/reset-input-white.svg": "/static/media/reset-input-white.31c55c8707527ff4652fa04819d81c66.svg",
     "static/media/al.svg": "/static/media/al.da0e8a97f607a2e13616f787021bb823.svg",
@@ -65,11 +70,11 @@
     "static/media/reset-input-black.svg": "/static/media/reset-input-black.750aedbe20752f61de4dc409446ddc27.svg",
     "static/media/refresh-icon-b.svg": "/static/media/refresh-icon-b.fcdeda242a257d3a4e920eb4203ba4d7.svg",
     "static/media/right-arrow-b.svg": "/static/media/right-arrow-b.58911a02ba12afa51f4f98ba8c308cec.svg",
-    "main.4eb49048.css.map": "/static/css/main.4eb49048.css.map",
-    "main.68c28006.js.map": "/static/js/main.68c28006.js.map"
+    "main.d66819e3.css.map": "/static/css/main.d66819e3.css.map",
+    "main.d189d6f5.js.map": "/static/js/main.d189d6f5.js.map"
   },
   "entrypoints": [
-    "static/css/main.4eb49048.css",
-    "static/js/main.68c28006.js"
+    "static/css/main.d66819e3.css",
+    "static/js/main.d189d6f5.js"
   ]
 }
